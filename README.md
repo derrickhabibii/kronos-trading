@@ -84,7 +84,7 @@ Kronos inference runs on Apple MPS (Metal Performance Shaders) — GPU-accelerat
 
 ```bash
 # Clone this repo
-git clone https://github.com/YOUR_USERNAME/kronos-trading
+git clone https://github.com/derrickhabibii/kronos-trading
 
 # Install dependencies
 pip install torch transformers pandas numpy yfinance
