@@ -1,0 +1,36 @@
+# Proprietary — do not publish
+src/trade_signal.py
+src/btc_finetune.py
+src/btc_asymmetry_test.py
+src/btc_range_test.py
+src/btc_checkpoint_diagnostic.py
+
+# Model weights
+model/finetuned/
+model/Kronos-small/
+model/Kronos-Tokenizer-base/
+
+# Trade data
+logs/
+data/raw/
+
+# Cloned Kronos repo
+Kronos/
+
+# Internal project files
+blueprint.md
+session_log.md
+onboard.md
+phase1_forecast_test.py
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Claude Code
+.claude/
+
+# macOS
+.DS_Store
